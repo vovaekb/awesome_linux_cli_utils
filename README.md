@@ -1,7 +1,15 @@
 # awesome_linux_cli_utils
 
+### Terminal work utils
+
+**Flyline**
+
+Intellisense autocompletions inside of Bash
+
+[github](https://github.com/HalFrgrd/flyline)
 
 ### System utils
+
 
 **Putzen**
 
