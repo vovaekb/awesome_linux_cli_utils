@@ -26,6 +26,14 @@ Fast Serial Monitor for Embedded Systems and Serial Communication.
 [github](https://github.com/Vaishnav-Sabari-Girish/ComChan)
 
 
+### TUI for different applications
+
+**Jira TUI**
+
+Terminal-based Jira task manager. Connect to one or more Jira instances, browse issues, create, transition, comment, and reassign — all without leaving the terminal.
+
+[github](https://github.com/0r1k/jira-tui)
+
 ### Misc
 
 **ytdl-nightly**
