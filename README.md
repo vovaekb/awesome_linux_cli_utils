@@ -34,6 +34,34 @@ Terminal-based Jira task manager. Connect to one or more Jira instances, browse 
 
 [github](https://github.com/0r1k/jira-tui)
 
+### Cleaning disk space
+
+**dev-sweeper**
+
+Blazing fast cross-platform TUI to safely clean up massive dependency folders (node_modules, target, venv, vendor) from inactive projects.
+
+[github](https://github.com/dvigo/dev-sweeper)
+
+**mess**
+
+A tiny CLI for removing common development clutter.
+
+[github](https://github.com/olzhasar/mess)
+
+### File system utils
+
+**nls**
+
+A modern ls with useful tables
+
+[github](https://github.com/nolight132/nls)
+
+**Sunset Commander**
+
+A two-panel visual shell for Linux terminals, in the spirit of Midnight Commander.
+
+[github](https://github.com/aranor01/sc)
+
 ### Misc
 
 **ytdl-nightly**
