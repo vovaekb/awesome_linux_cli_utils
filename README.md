@@ -8,7 +8,7 @@ Intellisense autocompletions inside of Bash
 
 [github](https://github.com/HalFrgrd/flyline)
 
-⚙️ ### System utils
+### ⚙️ System utils
 
 **Putzen**
 
