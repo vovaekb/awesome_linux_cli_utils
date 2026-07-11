@@ -8,8 +8,7 @@ Intellisense autocompletions inside of Bash
 
 [github](https://github.com/HalFrgrd/flyline)
 
-### System utils
-
+⚙️ ### System utils
 
 **Putzen**
 
@@ -34,7 +33,7 @@ Terminal-based Jira task manager. Connect to one or more Jira instances, browse 
 
 [github](https://github.com/0r1k/jira-tui)
 
-### Cleaning disk space
+💾🧹 ### Cleaning disk space
 
 **dev-sweeper**
 
@@ -48,7 +47,13 @@ A tiny CLI for removing common development clutter.
 
 [github](https://github.com/olzhasar/mess)
 
-### File system utils
+**CrunchyCleaner**
+
+A lightweight, software cache cleanup tool for Windows & Linux.
+
+[github](https://github.com/Knuspii/CrunchyCleaner)
+
+📁 ### File system utils
 
 **nls**
 
