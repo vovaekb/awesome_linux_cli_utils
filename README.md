@@ -33,7 +33,7 @@ Terminal-based Jira task manager. Connect to one or more Jira instances, browse 
 
 [github](https://github.com/0r1k/jira-tui)
 
-💾🧹 ### Cleaning disk space
+### 💾🧹 Cleaning disk space
 
 **dev-sweeper**
 
@@ -53,7 +53,7 @@ A lightweight, software cache cleanup tool for Windows & Linux.
 
 [github](https://github.com/Knuspii/CrunchyCleaner)
 
-📁 ### File system utils
+### 📁 File system utils
 
 **nls**
 
